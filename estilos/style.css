@@ -55,8 +55,3 @@ section#redes-sociais img:hover {
 section#redes-sociais img:active {
     transform: scale(95%);
 }
-footer {
-    color: white;
-    text-align: center;
-    padding: 5px;
-}
